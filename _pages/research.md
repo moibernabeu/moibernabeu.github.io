@@ -1,5 +1,5 @@
 ---
 layout: single
-title: About
-permalink: /about/
+title: Research
+permalink: /research/
 ---
