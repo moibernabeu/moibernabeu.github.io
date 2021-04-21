@@ -26,8 +26,8 @@ email: your-email@example.com
 #   Google search results) and in your feed.xml site description.
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter: moigilbernabeu
-github: moibernabeu
+# twitter: moigilbernabeu
+# github: moibernabeu
 
 # Build settings
 # theme: minima
@@ -35,6 +35,15 @@ remote_theme: "mmistakes/minimal-mistakes@4.22.0"
 
 include:
   - _pages
+
+atom_feed:
+  hide: true
+
+twitter:
+  username: "moigilbernabeu"
+
+github:
+  username: "moibernabeu"
 
 plugins:
   - jekyll-feed
