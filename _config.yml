@@ -42,8 +42,8 @@ atom_feed:
 twitter:
   username: "moigilbernabeu"
 
-github:
-  username: "moibernabeu"
+# github:
+#   username: "moibernabeu"
 
 plugins:
   - jekyll-feed
