@@ -36,14 +36,14 @@ remote_theme: "mmistakes/minimal-mistakes@4.22.0"
 include:
   - _pages
 
-atom_feed:
-  hide: true
-
 twitter:
   username: "moigilbernabeu"
 
 # github:
 #   username: "moibernabeu"
+
+atom_feed:
+  hide: true
 
 plugins:
   - jekyll-feed
