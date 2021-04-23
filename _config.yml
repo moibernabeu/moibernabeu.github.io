@@ -26,14 +26,11 @@ description: |- # this means to ignore newlines until "baseurl:"
   C/ Catedrático José Beltrán, 2, 46980 Paterna, València
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter: moigilbernabeu
-github: moibernabeu
+twitter_username: moigilbernabeu
+github_username:  moibernabeu
 
 # Build settings
 theme: minima
-
-twitter_username: moigilbernabeu
-github_username:  moibernabeu
 
 # atom_feed:
 #   hide: true
