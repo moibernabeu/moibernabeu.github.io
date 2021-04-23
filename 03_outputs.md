@@ -4,7 +4,7 @@ title: Outputs
 permalink: /outputs/
 ---
 
-# Publications
+<!-- # Publications
 
 ## 2021
 *Bernabeu, M.*, & Rosselló, J. A. (2021).
@@ -15,4 +15,4 @@ Journal of Molecular Evolution, 0123456789.
 
 # Talks
 
-# Posters
+# Posters -->
