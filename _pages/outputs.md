@@ -1,6 +1,5 @@
 ---
 layout: default
-classes: wide
 title: Outputs
 permalink: /outputs/
 ---

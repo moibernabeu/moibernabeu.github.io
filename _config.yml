@@ -36,14 +36,11 @@ theme: minima
 include:
   - _pages
 
-twitter:
-  username: "moigilbernabeu"
+twitter: "moigilbernabeu"
+github: "moibernabeu"
 
-# github:
-#   username: "moibernabeu"
-
-atom_feed:
-  hide: true
+# atom_feed:
+#   hide: true
 
 plugins:
   - jekyll-feed
