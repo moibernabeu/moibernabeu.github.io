@@ -1,5 +1,6 @@
 ---
 layout: default
+description: Index
 ---
 
 Welcome to the my page. I'm a MSc in Biostatistics student at the Universitat
