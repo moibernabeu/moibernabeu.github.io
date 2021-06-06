@@ -16,3 +16,7 @@ Journal of Molecular Evolution, 0123456789.
 # Talks
 
 # Posters
+*Bernabeu, M*, Arnau V., Díaz, W. & Moya, A.
+**Complexity metrics trend analysis through endosymbiosis Evolution**.
+Congreso Nacional de Genética. Sociedad Española de Genética, 2021.
+[PDF][https://mural.uv.es/moigil/SEG_MB_poster_V4.pdf]
