@@ -19,7 +19,7 @@ Here we will put the talks!
 # Posters
 *Bernabeu, M*
 **Bayesian phylogenetic inference instability in convergent bacteria**.
-València International Bayesian Analysis Summer School 4, (VIBASS 4), 2021.\\
+València International Bayesian Analysis Summer School 4 (VIBASS 4), 2021.
 
 
 *Bernabeu, M*, Arnau V., Díaz, W. & Moya, A.
