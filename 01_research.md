@@ -17,7 +17,7 @@ Journal of Molecular Evolution, 0123456789.\\
 Here we will put the talks!
 
 # Posters
-*Bernabeu, M*
+*Bernabeu, M.*
 **Bayesian phylogenetic inference instability in convergent bacteria**.
 València International Bayesian Analysis Summer School 4 (VIBASS 4), 2021.\\
 [PDF](https://drive.google.com/uc?export=download&id=1XnjuGvYoo0RBy7yY5PsSos7Z6bfC3Lg0)
