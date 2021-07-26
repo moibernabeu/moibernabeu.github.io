@@ -14,7 +14,10 @@ Journal of Molecular Evolution, 0123456789.\\
 [PDF](https://drive.google.com/uc?export=download&id=14k4oapOk2zy-sgbLCYYCnVh3_LQIom4l)
 
 # Talks
-Here we will put the talks!
+*Bernabeu, M*
+**Searching for a complexity trend in main evolutionary transitions**.
+Evolutionary Genetics Group seminar. I2SysBio, 2021\\
+[PDF](https://drive.google.com/uc?export=download&id=1HJ5wwu8aZrhVbNHkOyFecpb0MzXcgdSZ)
 
 # Posters
 *Bernabeu, M.*
