@@ -12,4 +12,4 @@ Course notes on Evolutionary Mechanisms and Processes. (In Catalan)\\
 
 **Code test**\\
 Code test\\
-{{ site.baseurl }}{% link _tutorials/miau.md %}
+[link]({{ site.baseurl }}{% link _tutorials/miau.md %})
