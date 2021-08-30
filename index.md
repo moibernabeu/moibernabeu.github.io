@@ -2,6 +2,7 @@
 layout: default
 title: Home
 description: Index
+order: 1
 ---
 
 Welcome to the my page. I am a MSc in Biostatistics student at the Universitat

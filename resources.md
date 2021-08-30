@@ -2,6 +2,7 @@
 layout: default
 title: Resources
 permalink: /resources/
+order: 3
 ---
 
 # Teaching material
