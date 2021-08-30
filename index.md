@@ -14,11 +14,10 @@ phylogenetic methodology and the analysis of DNA and protein sequences. I use
 all these methods and approaches to tackle the evolution of complexity problem,
 that is how complexity has changed through the history of life. To manage this
 data I develop some pipelines in order to improve the workflow in phylogenomics,
-also looking into the inference and its underlying methods of phylogenetic
-inference. I use both Maximum Likelihood and Bayesian Inference for the
-inference of trees and parameters estimation, also I am introducing in the
-Hidden Markov Models to structure and explain selection over a chain of traits,
-nucleotides or proteins.
+also looking into the inference and its underlying phylogenetic methods. I use
+both Maximum Likelihood and Bayesian Inference for the topologies and parameters
+estimation, also I am introducing in the Hidden Markov Models to structure and
+explain selection over a chain of traits, nucleotides or proteins.
 
 In parallel I study the evolution on early land plant and its selection
 patterns. From a phylogenetic perspective we devise which molecular changes
