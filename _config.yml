@@ -34,9 +34,9 @@ github_username:  moibernabeu
 #   - _pages/
 
 header_pages:
-  - index
-  - research
-  - resources
+  - index.md
+  - research.md
+  - resources.md
 
 # Build settings
 theme: minima
