@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Resources
-permalink: /_pages/resources/
+permalink: /resources/
 order: 3
 ---
 
@@ -12,4 +12,4 @@ Course notes on Evolutionary Mechanisms and Processes. (In Catalan)\\
 
 **Code test**\\
 Code test\\
-[link](https://moibernabeu.github.io/_tutorials/miau/)
+[link](https://moibernabeu.github.io/tutorials/miau/)
