@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Research
-permalink: /research/
+permalink: /pages_/research/
 order: 2
 ---
 
