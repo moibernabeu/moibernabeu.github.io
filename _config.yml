@@ -30,6 +30,14 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: moigilbernabeu
 github_username:  moibernabeu
 
+# include:
+#   - _pages/
+
+header_pages:
+  - index
+  - research
+  - resources
+
 # Build settings
 theme: minima
 
