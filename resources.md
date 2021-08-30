@@ -12,4 +12,4 @@ Course notes on Evolutionary Mechanisms and Processes. (In Catalan)\\
 
 **Code test**\\
 Code test\\
-[link](https://moibernabeu.github.io/tutorials/miau.html)
+[link](https://moibernabeu.github.io/tutorials/miau/)
