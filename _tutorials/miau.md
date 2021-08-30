@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Miau
-permalink: /tutorials/miau/
+permalink: /_tutorials/miau/
 ---
 
 code
