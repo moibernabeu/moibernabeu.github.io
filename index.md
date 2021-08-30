@@ -3,8 +3,8 @@ layout: default
 description: Index
 ---
 
-Welcome to the my page. I'm a MSc in Biostatistics student at the Universitat
-de València also interested in Evolutionary Theory. Currently I'm working at
+Welcome to the my page. I am a MSc in Biostatistics student at the Universitat
+de València also interested in Evolutionary Theory. Currently I am working at
 the Evolutionary Genetics Laboratory at Institute for Integrative Systems
 Biology, a joint institute between Universitat de València and the spanish
 research council (CSIC).
@@ -16,7 +16,7 @@ that is how complexity has changed through the history of life. To manage this
 data I develop some pipelines in order to improve the workflow in phylogenomics,
 also looking into the inference and its underlying methods of phylogenetic
 inference. I use both Maximum Likelihood and Bayesian Inference for the
-inference of trees and parameters estimation, also I'm introducing in the
+inference of trees and parameters estimation, also I am introducing in the
 Hidden Markov Models to structure and explain selection over a chain of traits,
 nucleotides or proteins.
 
