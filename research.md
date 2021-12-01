@@ -22,8 +22,9 @@ Evolutionary Genetics Group seminar. I2SysBio, 2021\\
 
 # Posters
 *Bernabeu, M*, Arnau V., Díaz, W. & Moya, A.
-**Is the Gammaproteobacterial evolution progressive?**.
+**Is the Gammaproteobacterial evolution progressive?** (In spanish).
 I Congreso Latinoamericano de Evolución, november - december 2021.
+[PDF](https://drive.google.com/uc?export=download&id=12gU181ZQA5GFoEFyIIlWUGPN_Iigef7u)
 
 *Bernabeu, M.*
 **Bayesian phylogenetic inference instability in convergent bacteria**.
