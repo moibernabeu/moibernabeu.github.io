@@ -14,7 +14,7 @@ mafft-linsi data/sequences/sequence.fa > data/sequences/aln.fa
 
 From this, we obtain an alignment
 
-~~~ R, echo=FALSE, fig.width=14, fig.height=6}
+~~~ R
 library(alignfigR)
 library(plot.matrix)
 
@@ -30,14 +30,14 @@ This, as can be seen in the figure, has some regions in black, which means the l
 trimal -in data/sequences/aln.fa -out data/sequences/trim.fa -gappyout
 ~~~
 
-~~~ R, echo=FALSE, fig.width=14, fig.height=6}
+~~~ R
 trim <- t(as.data.frame(read_alignment('data/sequences/trim.fa')))
 par(mar =c(3, 6, 3, 3))
 plot(as.matrix(trim), col = c(1:22), las = 2, xlab = '',
      main = 'trimmed alignment', ylab = '', cex.axis=0.7)
 ~~~
 
-~~~ R, include=FALSE}
+~~~ R
 dev.off()
 ~~~
 
@@ -59,7 +59,7 @@ iqtree2 -s data/sequences/trim.fa -m TEST -B 4000 --prefix data/tree/iqtree/rpl3
 
 `-s` means the input data (i.e.: trimmed alignment of the interest gene), `-m TEST` performs an optimum model selection for the inference considering the alignment, `-B` option is the ultra-fast bootstrap with 4000 replicates, finally, `--prefix` is the command to say where to save the final documents. (More information in http://www.iqtree.org/doc/iqtree-doc.pdf).
 
-~~~{R, echo=FALSE, fig.width=6, fig.height=8}
+~~~ R
 library(treeio)
 library(ggtree)
 
@@ -103,7 +103,7 @@ mpirun -n 6 pb_mpi -cat -wag -dgam 4 -d data/trim.phy data/chains/ch2/ch2
 
 Above commands execute the Monte Carlo Markov Chains with our alignment. These should be tested, first they could be plotted.
 
-~~~ R, fig.width=12, fig.height=3}
+~~~ R
 postch1 <- read.table('data/tree/phylobayes/ch1/ch1.trace', header = 1)
 postch2 <- read.table('data/tree/phylobayes/ch2/ch2.trace', header = 1)
 
