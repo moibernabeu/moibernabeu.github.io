@@ -16,11 +16,21 @@ Journal of Molecular Evolution, 0123456789.\\
 
 # Talks
 *Bernabeu, M*
+**What we do when the experiment is finished?**
+GenEvol (I2SysBio) group seminar, València, December 2021\\
+[PDF](https://drive.google.com/uc?export=download&id=16u_HixrSmxR1rtVtz44CVJtchRlo61_O)
+
+*Bernabeu, M*
 **Searching for a complexity trend in main evolutionary transitions**.
 Evolutionary Genetics Group seminar. I2SysBio, 2021\\
 [PDF](https://drive.google.com/uc?export=download&id=1km6N-kC1cWyGfvwRZdLmf-DibwORyVLz)
 
 # Posters
+*M. Bernabeu*, V. Arnau, W. Díaz and A. Moya
+**Is there a progressive trend in the genomic evolution of Gammaproteobacteria phylum?**.
+1r Congreso latinoamericano de Evolución, November - December 2021\\
+[PDF](https://drive.google.com/uc?export=download&id=12gU181ZQA5GFoEFyIIlWUGPN_Iigef7u)
+
 *Bernabeu, M.*
 **Bayesian phylogenetic inference instability in convergent bacteria**.
 València International Bayesian Analysis Summer School 4 (VIBASS 4), 2021.\\
