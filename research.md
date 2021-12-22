@@ -26,15 +26,9 @@ Evolutionary Genetics Group seminar. I2SysBio, 2021\\
 [PDF](https://drive.google.com/uc?export=download&id=1km6N-kC1cWyGfvwRZdLmf-DibwORyVLz)
 
 # Posters
-<<<<<<< HEAD
-*M. Bernabeu*, V. Arnau, W. Díaz and A. Moya
-**Is there a progressive trend in the genomic evolution of Gammaproteobacteria phylum?**.
-1r Congreso latinoamericano de Evolución, November - December 2021\\
-=======
 *Bernabeu, M*, Arnau V., Díaz, W. & Moya, A.
 **Is the Gammaproteobacterial genomic evolution progressive?** (In spanish).
 I Congreso Latinoamericano de Evolución, november - december 2021.\\
->>>>>>> 79037fec9018dd2446984c9e81976c52627b5a96
 [PDF](https://drive.google.com/uc?export=download&id=12gU181ZQA5GFoEFyIIlWUGPN_Iigef7u)
 
 *Bernabeu, M.*
