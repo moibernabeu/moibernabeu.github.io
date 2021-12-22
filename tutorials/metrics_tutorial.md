@@ -8,7 +8,7 @@ permalink: /tutorials/metrics_tutorial
 
 First of all, we have to get the interest sequences. For this example we will work using L3 ribosomal protein, which is highly conserved under the tree of life. First we align the data using the program we like, I have chosen MAFFT, which is currently one of the most important alignment softwares.
 
-~~~{bash, eval=FALSE}
+~~~ bash
 mafft-linsi data/sequences/sequence.fa > data/sequences/aln.fa
 ~~~
 
@@ -26,7 +26,7 @@ plot(as.matrix(aln), col = c(1:22), las = 2, xlab = '', main = 'alignment',
 
 This, as can be seen in the figure, has some regions in black, which means the lack of data, a gap in the alignment. To solve this, we can trim these positions by several algorithms, I like to use `trimal` with `-gappyout` option.
 
-~~~{bash, eval=FALSE}
+~~~ bash
 trimal -in data/sequences/aln.fa -out data/sequences/trim.fa -gappyout
 ~~~
 
@@ -166,3 +166,8 @@ bip
 ~~~
 
 We can plot them jointly to compare:
+
+~~~ R
+library(ggpubr)
+ggarrange(mlp, bip, labels = c('ML', 'BI'))
+~~~
