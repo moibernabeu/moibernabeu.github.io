@@ -26,17 +26,23 @@ Evolutionary Genetics Group seminar. I2SysBio, 2021\\
 [PDF](https://drive.google.com/uc?export=download&id=1km6N-kC1cWyGfvwRZdLmf-DibwORyVLz)
 
 # Posters
+<<<<<<< HEAD
 *M. Bernabeu*, V. Arnau, W. Díaz and A. Moya
 **Is there a progressive trend in the genomic evolution of Gammaproteobacteria phylum?**.
 1r Congreso latinoamericano de Evolución, November - December 2021\\
+=======
+*Bernabeu, M*, Arnau V., Díaz, W. & Moya, A.
+**Is the Gammaproteobacterial genomic evolution progressive?** (In spanish).
+I Congreso Latinoamericano de Evolución, november - december 2021.\\
+>>>>>>> 79037fec9018dd2446984c9e81976c52627b5a96
 [PDF](https://drive.google.com/uc?export=download&id=12gU181ZQA5GFoEFyIIlWUGPN_Iigef7u)
 
 *Bernabeu, M.*
 **Bayesian phylogenetic inference instability in convergent bacteria**.
-València International Bayesian Analysis Summer School 4 (VIBASS 4), 2021.\\
+València International Bayesian Analysis Summer School 4 (VIBASS 4), july 2021.\\
 [PDF](https://drive.google.com/uc?export=download&id=1XnjuGvYoo0RBy7yY5PsSos7Z6bfC3Lg0)
 
 *Bernabeu, M*, Arnau V., Díaz, W. & Moya, A.
 **Complexity metrics trend analysis through endosymbiosis Evolution**.
-Congreso Nacional de Genética. Sociedad Española de Genética, 2021.\\
+Congreso Nacional de Genética. Sociedad Española de Genética, june 2021.\\
 [PDF](https://drive.google.com/uc?export=download&id=1MqWeN2yESrb3NpWib806DHq0u6dZnsLA)
