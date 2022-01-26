@@ -26,6 +26,11 @@ Evolutionary Genetics Group seminar. I2SysBio, 2021\\
 [PDF](https://drive.google.com/uc?export=download&id=1km6N-kC1cWyGfvwRZdLmf-DibwORyVLz)
 
 # Posters
+*M. Bernabeu*, and A. Moya
+**Complexity trends in prokaryotic to eukaryotic cell transition**.
+VIII Meeting of the SESBE, February 2022\\
+[PDF](https://drive.google.com/uc?export=download&id=1L1AoZGBVKKJGmWLJBV_4fVtf22TUxFwt)
+
 *Bernabeu, M*, Arnau V., Díaz, W. & Moya, A.
 **Is the Gammaproteobacterial genomic evolution progressive?** (In spanish).
 I Congreso Latinoamericano de Evolución, november - december 2021.\\
