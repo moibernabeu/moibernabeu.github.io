@@ -26,7 +26,7 @@ Evolutionary Genetics Group seminar. I2SysBio, 2021\\
 [PDF](https://drive.google.com/uc?export=download&id=1km6N-kC1cWyGfvwRZdLmf-DibwORyVLz)
 
 # Posters
-*M. Bernabeu*, and A. Moya
+*Bernabeu, M.*, and Moya, A.
 **Complexity trends in prokaryotic to eukaryotic cell transition**.
 VIII Meeting of the SESBE, February 2022\\
 [PDF](https://drive.google.com/uc?export=download&id=1L1AoZGBVKKJGmWLJBV_4fVtf22TUxFwt)
