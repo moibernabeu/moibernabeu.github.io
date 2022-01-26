@@ -22,9 +22,9 @@ title: Moisès Bernabeu
 author: "/*-----------------*/"
 email: moises.gilbernabeu@bsc.es
 description: |- # this means to ignore newlines until "baseurl:"
-  I2SysBio, UV-CSIC
-  Parc Cientific
-  C/ Catedrático José Beltrán, 2, 46980 Paterna, València
+  Barcelona Supercomputing Center (BSC)
+  Plaça Eusebi Güell 1-3
+  08034 Barcelona
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: moigilbernabeu
