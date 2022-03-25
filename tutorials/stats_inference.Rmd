@@ -1,12 +1,7 @@
 ---
 title: "Statistical inference"
 author: "Moisès Bernabeu"
-date: "`r format(Sys.time(), '%B %d, %Y')`"
-output:
-  # pdf_document: default
-  html_document: default
-editor_options:
-  chunk_output_type: console
+date: "2022"
 ---
 
 ```{r setup, include=FALSE}
