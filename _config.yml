@@ -44,6 +44,8 @@ theme: minima
 # atom_feed:
 #   hide: true
 
+markdown: kramdown
+
 plugins:
   - jekyll-feed
   # - jekyll-include-cache
