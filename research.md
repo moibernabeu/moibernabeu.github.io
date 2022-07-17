@@ -13,6 +13,11 @@ order: 2
 [PDF](https://drive.google.com/uc?export=download&id=14k4oapOk2zy-sgbLCYYCnVh3_LQIom4l)
 
 # Talks
+*M. Bernabeu*, C. Armero and T. Gabaldón
+**Relatively dating evolutionary events using gene phylogenies**.
+Jornada de Biologia Evolutiva, June 2022\\
+[PDF](https://drive.google.com/uc?export=download&id=1AktxDhvCs-iuecwcgtFJ0M14Mj7KDjer)
+
 *M. Bernabeu*
 **What we do when the experiment is finished?**
 GenEvol (I2SysBio) group seminar, València, December 2021\\
@@ -43,3 +48,9 @@ València International Bayesian Analysis Summer School, July 2021\\
 **Complexity metrics trend analysis through endosymbiosis Evolution**.
 Congreso Nacional de Genética, June 2021\\
 [PDF](https://drive.google.com/uc?export=download&id=1MqWeN2yESrb3NpWib806DHq0u6dZnsLA)
+
+# Theses
+**Bayesian framework for timing evolutionary events using gene phylogenies**.\\
+Advisors: Toni Gabaldón and Carmen Armero. July, 2022\\
+[Thesis](https://drive.google.com/uc?export=download&id=19wSJzfz3rsCJL4XA454Dp5FTpDcFAQJJ)
+[Slides (in Catalan)](https://drive.google.com/uc?export=download&id=1igkUsjdNc9fJYMnqRrH3B1SgeIUFCWgi)
