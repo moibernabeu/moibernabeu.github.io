@@ -37,6 +37,7 @@ header_pages:
   - index.md
   - research.md
   - resources.md
+  - blog.md
 
 # Build settings
 theme: minima
