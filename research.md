@@ -32,7 +32,7 @@ GenEvol (I2SysBio) group seminar, València, July 2021\\
 *M. Bernabeu*, C. Armero and T. Gabaldón
 **Branch length ratio method for timing evolutionary events using gene phylogenies**.
 Comparative genomics of unicellular eukaryotes: Interactions and symbioses, September 2022\\
-[PDF](https://drive.google.com/file/d/1shDp__tPAES3gwUCv8yZ0qHc45cGxgln/view?usp=sharing)
+[PDF](https://drive.google.com/uc?export=download&id=1shDp__tPAES3gwUCv8yZ0qHc45cGxgln)
 
 *M. Bernabeu*, and A. Moya
 **Complexity trends in prokaryotic to eukaryotic cell transition**.
