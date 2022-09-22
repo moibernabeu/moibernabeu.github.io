@@ -57,5 +57,5 @@ Congreso Nacional de Genética, June 2021\\
 # Theses
 **Bayesian framework for timing evolutionary events using gene phylogenies**.\\
 Advisors: Toni Gabaldón and Carmen Armero. July, 2022\\
-[Thesis](https://drive.google.com/uc?export=download&id=19wSJzfz3rsCJL4XA454Dp5FTpDcFAQJJ)
-[Slides (in Catalan)](https://drive.google.com/uc?export=download&id=1igkUsjdNc9fJYMnqRrH3B1SgeIUFCWgi)
+[Thesis]()
+[Slides (in Catalan)]()
