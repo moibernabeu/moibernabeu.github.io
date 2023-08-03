@@ -29,6 +29,11 @@ GenEvol (I2SysBio) group seminar, València, July 2021\\
 [PDF](https://drive.google.com/uc?export=download&id=1km6N-kC1cWyGfvwRZdLmf-DibwORyVLz)
 
 # Posters
+*Moisès Bernabeu* and Toni Gabaldón
+**Relative dating of evolutionary events from gene trees**.
+SMBE 2023, July 2023\\
+[PDF](https://drive.google.com/uc?export=download&id=1YNSYJBoyLztfcBwlO_Xc3pLk6gY6KAYx)
+
 *M. Bernabeu*, C. Armero and T. Gabaldón
 **Branch length ratio method for timing evolutionary events using gene phylogenies**.
 Comparative genomics of unicellular eukaryotes: Interactions and symbioses, September 2022\\
