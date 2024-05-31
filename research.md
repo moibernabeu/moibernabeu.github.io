@@ -6,6 +6,10 @@ order: 2
 ---
 
 # Publications
+## 2024
+*M. Bernabeu*, S. Manzano-Morales and T. Gabaldón (2024).
+**On the impact of incomplete taxon sampling on the relative timing of gene transfer events**. PLoS Biology, 22(3) e3002460\\[10.1371/journal.pbio.3002460](https://doi.org/10.1371/journal.pbio.3002460). [PDF](https://drive.google.com/uc?export=download&id=1JvShztPmVf74qSCTLbaTacUYMSYMg-UZ)
+
 ## 2021
 *M. Bernabeu* and J. A. Rosselló (2021).
 **Molecular Evolution of rbcL in Orthotrichales (Bryophyta): Site Variation, Adaptive Evolution, and Coevolutionary Patterns of Amino Acid Replacements**.Journal of Molecular Evolution, 89(4–5) 225–237\\
