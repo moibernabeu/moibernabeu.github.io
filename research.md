@@ -16,29 +16,26 @@ order: 2
 [10.1007/s00239-021-09998-w](https://doi.org/10.1007/s00239-021-09998-w).
 [PDF](https://drive.google.com/uc?export=download&id=14k4oapOk2zy-sgbLCYYCnVh3_LQIom4l)
 
+
 # Talks
+*M. Bernabeu* and T. Gabaldón
+**Paulinella gene family evolution reveals the importance of targeting and horizontal gene transfer during organellogenesis**.
+Jornada de Biologia Evolutiva, June 2024\\
+[PDF](https://drive.google.com/uc?export=download&id=1iAqNdAoUDy6G0Esv4Vi2rvcbSxb_yqoP)
+
 *M. Bernabeu*, C. Armero and T. Gabaldón
 **Relatively dating evolutionary events using gene phylogenies**.
 Jornada de Biologia Evolutiva, June 2022\\
 [PDF](https://drive.google.com/uc?export=download&id=1AktxDhvCs-iuecwcgtFJ0M14Mj7KDjer)
 
-*M. Bernabeu*
-**What we do when the experiment is finished?**
-GenEvol (I2SysBio) group seminar, València, December 2021\\
-[PDF](https://drive.google.com/uc?export=download&id=16u_HixrSmxR1rtVtz44CVJtchRlo61_O)
-
-*M. Bernabeu*
-**Searching for a complexity trend in main evolutionary transitions**
-GenEvol (I2SysBio) group seminar, València, July 2021\\
-[PDF](https://drive.google.com/uc?export=download&id=1km6N-kC1cWyGfvwRZdLmf-DibwORyVLz)
 
 # Posters
-*Moisès Bernabeu* and Toni Gabaldón
+*M. Bernabeu* and T. Gabaldón
 **Relative dating of evolutionary events from gene trees**.
 SESBE 2024, January 2024\\
 [PDF](https://drive.google.com/uc?export=download&id=12Eqo40uENx0SbQyxBmsHIINdrmQ2yLRd)
 
-*Moisès Bernabeu* and Toni Gabaldón
+*M. Bernabeu* and T. Gabaldón
 **Relative dating of evolutionary events from gene trees**.
 SMBE 2023, July 2023\\
 [PDF](https://drive.google.com/uc?export=download&id=1YNSYJBoyLztfcBwlO_Xc3pLk6gY6KAYx)
@@ -71,5 +68,6 @@ Congreso Nacional de Genética, June 2021\\
 # Theses
 **Bayesian framework for timing evolutionary events using gene phylogenies**.\\
 Advisors: Toni Gabaldón and Carmen Armero. July, 2022\\
-[Thesis]()
-[Slides (in Catalan)]()
+
+**Deep phylogenies with single gene through chloroplast Evolution**
+Advisor: Josep A. Rosselló. July, 2020
