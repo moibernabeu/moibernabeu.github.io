@@ -1,5 +1,5 @@
 .featured-post {
-  height: 400px;
+  height: 250px;
   margin: 5px 10px 10px;
   background-position: center;
   background-repeat: no-repeat;
@@ -15,10 +15,19 @@
 .featured-post h2 span {
   display: inline-block;
   color: white;
-  font: bold 24px/45px Helvetica, Sans-Serif;
+  font: black 24px/45px $base-font-family;
   letter-spacing: -1px;
-  background: rgb(0, 0, 0); /* fallback color */
-  background: rgba(0, 0, 0, 0.7);
+  background: rgb(0, 163, 120); /* fallback color */
+  background: rgba(0, 163, 120, 0.8);
+  padding: 10px;
+}
+.featured-post h2 span:hover {
+  display: inline-block;
+  color: white;
+  font: black 24px/45px $base-font-family;
+  letter-spacing: -1px;
+  background: rgb(0, 163, 120); /* fallback color */
+  background: rgba(0, 163, 120, 1);
   padding: 10px;
 }
 .featured-post span a {

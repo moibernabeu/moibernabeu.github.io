@@ -41,11 +41,17 @@ h4, h5, h6 {
 body {
   font-family: $base-font-family;
 }
+
 body img {
   align: middle;
   margin: 5px auto auto auto;
   display: block;
   max-width: 600px;
+}
+
+h3 a img {
+  margin-top:11px;
+  margin-right:5px;
 }
 
 p {
@@ -91,6 +97,11 @@ a {
   color: $brand-color;
   text-decoration: none;
 }
+
+a:hover {
+  color: $light-brand-color;
+  text-decoration: underline dotted;
+ }
 
 /*
   Blockquote

@@ -1,7 +1,9 @@
 <header class="site-header">
-  <h3 class="site-title">
-    <a href="{{ site.github.url }}/">{{ site.title }}</a>
-  </h3>
+  <h3 class="site-title", style="font-weight: bold">
+    <a href="{{ site.baseurl }}/"> 
+		<img src="/assets/img/favicon.svg" alt="logo" width="32" height="32" align="left" class="headerlogo"> {{ site.title }}
+	</a>
+  </h3> 
   <nav class="menu-list">
     {% for item in site.data.settings.menu %}
       <a href="{{ site.github.url }}/{{ item.url }}" class="menu-link">{{ item.name }}</a>
