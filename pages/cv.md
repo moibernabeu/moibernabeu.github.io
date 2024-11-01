@@ -40,7 +40,7 @@ order: 2
 ---
 *M. Bernabeu* and T. Gabaldón
 **Paulinella HGT and targeting interplay during the origin of the chromatophore**.
-CGUE 2024, September 2024\\
+Comparative Genomics of Unicellular Eukaryotes, October 2024\\
 [PDF](https://drive.google.com/uc?export=download&id=1l9G-Tamn4xm5iyZwLj5LBW3K6rMBVMrN)
 
 *M. Bernabeu* and T. Gabaldón
