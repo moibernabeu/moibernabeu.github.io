@@ -5,6 +5,7 @@ permalink: /cv
 order: 2
 ---
 
+
 ## Publications
 ---
 
@@ -34,11 +35,13 @@ order: 2
 **Diverse ancestries reveal complex symbiotic interactions during eukaryogenesis**\\
 [Link](10.1101/2024.10.14.618062)
 
+
 ## Talks
 ---
 *M. Bernabeu* and T. Gabaldón
-**Timing of HGT events in Paulinella species may suggest ancestral prolonged symbioses**.
-CGUE 2024, September 2024
+**Paulinella HGT and targeting interplay during the origin of the chromatophore**.
+CGUE 2024, September 2024\\
+[PDF](https://drive.google.com/uc?export=download&id=1l9G-Tamn4xm5iyZwLj5LBW3K6rMBVMrN)
 
 *M. Bernabeu* and T. Gabaldón
 **Paulinella gene family evolution reveals the importance of targeting and horizontal gene transfer during organellogenesis**.
@@ -87,6 +90,7 @@ València International Bayesian Analysis Summer School, July 2021\\
 **Complexity metrics trend analysis through endosymbiosis Evolution**.
 Congreso Nacional de Genética, June 2021\\
 [PDF](https://drive.google.com/uc?export=download&id=1MqWeN2yESrb3NpWib806DHq0u6dZnsLA)
+
 
 ## Theses
 ---
