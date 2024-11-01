@@ -37,6 +37,10 @@ order: 2
 ## Talks
 ---
 *M. Bernabeu* and T. Gabaldón
+**Timing of HGT events in Paulinella species may suggest ancestral prolonged symbioses**.
+CGUE 2024, September 2024
+
+*M. Bernabeu* and T. Gabaldón
 **Paulinella gene family evolution reveals the importance of targeting and horizontal gene transfer during organellogenesis**.
 Jornada de Biologia Evolutiva, June 2024\\
 [PDF](https://drive.google.com/uc?export=download&id=1iAqNdAoUDy6G0Esv4Vi2rvcbSxb_yqoP)
