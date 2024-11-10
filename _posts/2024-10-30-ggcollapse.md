@@ -14,7 +14,8 @@ the same size across the tree. Additionally, we also developed some functions
 that help to annotate and find specific nodes in the tree, such as all
 the monophyletic clades of tips belonging to a category or all the
 sister clades to a specific node of the tree. We encourage you to follow the
-tutorial in your 
+tutorial in your computer. The raw code for this package can be found in:
+[https://github.com/moibernabeu/ggcollapse/](https://github.com/moibernabeu/ggcollapse/).
 
 ## Installing `ggcollapse`
 
