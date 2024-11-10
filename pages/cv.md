@@ -95,7 +95,7 @@ Congreso Nacional de Genética, June 2021\\
 ## Theses
 ---
 **Bayesian framework for timing evolutionary events using gene phylogenies**.\\
-MSc thesis. Advisors: Toni Gabaldón and Carmen Armero. July, 2022\\
+MSc thesis. Advisors: Toni Gabaldón and Carmen Armero. July, 2022
 
 **Deep phylogenies with single gene through chloroplast Evolution**
 BSc thesis. Advisor: Josep A. Rosselló. July, 2020
