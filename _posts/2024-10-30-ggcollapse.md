@@ -8,7 +8,7 @@ image: ggcollapse.png
 ---
 
 
-This packages has been programmed to incorporate a function that
+This package has been programmed to incorporate a function that
 collapses clades obtaining symmetric triangles and collapsed nodes with
 the same size across the tree. However, we also developed some functions
 that help to annotate and find specific nodes in the tree, such as all
