@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "`ggcollapse`, an R package to collapse nodes using ggtree"
+title: "ggcollapse, an R package to collapse nodes using ggtree"
 author: "Moisès Bernabeu"
 categories: resources
 tags: [resources,R,visualisation]
