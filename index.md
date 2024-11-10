@@ -12,4 +12,4 @@ transitions (such as organellogenesis, eukaryogenesis, symbiosis, etc.)
 across the eukaryotic tree of life. I am also interested in microbial
 eukaryotes, from their ecology and evolution to their morphology and structure.
 
-![Protists drawn by Moisès](/assets/img/protists_bw.png)
+<img src="/assets/img/protists_bw.png" alt="drawing" width="50%"/>
