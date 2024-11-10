@@ -13,7 +13,8 @@ collapses clades obtaining symmetric triangles and collapsed nodes with
 the same size across the tree. However, we also developed some functions
 that help to annotate and find specific nodes in the tree, such as all
 the monophyletic clades of tips belonging to a category or all the
-sister clades to a specific node of the tree.
+sister clades to a specific node of the tree. We encourage you to follow the
+tutorial in your 
 
 ## Installing `ggcollapse`
 
@@ -94,12 +95,17 @@ the species-getting function must return the header, or
 2. generate a `data.frame` relating the species with its information, in this
 case, the species-generating function must return the species.
 
-In this tutorial, we will use the second strategy, to generate de `data.frame`:
+In this tutorial, we will use the second strategy to generate de `data.frame`,
+we also will generate a palette for the groups:
 
 ```r
+groups <- c(rep('G1', 7), rep('G2', 3), rep('G3', 9))
 tree_data <- data.frame(species = LETTERS[1:19],
-                        group = c(rep('G1', 7), rep('G2', 3), rep('G3', 9)))
+                        group = groups)
 head(tree_data, n = 4)
+group_colours <- c('G1' = 'coral3',
+                   'G2' = 'steelblue3',
+                   'G3' = 'darkolivegreen4')
 ```
 
 ## `ggcollapse` functions
@@ -114,7 +120,10 @@ the species code is. The resulting tree is a `treedata S4` object.
 
 ```r
 library(ggcollapse)
-annot_tree <- annotate_tree(tree = tree, tree_data = tree_data, get_sp = get_sp,
+
+annot_tree <- annotate_tree(tree = tree,
+                            tree_data = tree_data,
+                            get_sp = get_sp,
                             data_sp_column = 'species')
 ```
 
@@ -125,7 +134,148 @@ points on the tips:
 ggtree(annot_tree) +
   geom_tiplab(offset = 0.035) +
   geom_tippoint(aes(colour = group)) +
+  scale_colour_manual(values = group_colours) +
   xlim(0, 5.5)
 ```
 
+### Obtaining monophyletic clades of the groups with `get_monophyletics` 
+Using the function `get_monophyletics` we can get the value of the nodes whose
+all their descendants belong to the group specified in the `group_column`
+argument. Here we show the example of a tree that has been already annotated,
+however, the function can get the `tree_data`, `get_sp` and `data_sp_column` in
+the case the tree is not annotated.
+
+```r
+gr_mphy <- get_monophyletics(tree = annot_tree,
+                             group_column = 'group')
+gr_mphy
+```
+
+### Getting sister groups with `get_sisters`
+An interesting function of this package, is the function `get_sisters`. This
+function allows the user to obtain the vector of sister clades to a specific
+tip or internal node. The function will return a vector with the number of the
+sister clade nodes sorted by increasing topological distance to the node. To
+get the sisters of a tip, we can specify the tree and the tip label, as well
+as the tip number:
+
+```r
+tip_sisters <- get_sisters(tree = tree,
+                           node = 't8_O')
+tip_sisters
+
+tip_num <- which(tree$tip.label == 't8_O')
+tip_sisters_num <- get_sisters(tree = tree,
+                               node = tip_num)
+tip_sisters_num == tip_sisters
+```
+
+In case we want to name the vector of sisters with the most abundant value of
+a column in the descendants a specific clade, we can use the annotated tree,
+the node, and the naming column, in this case, the group. Using these arguments,
+the function will return a named vector with the number of the sister clade
+nodes named with the most abundant value for the column and its percentage
+(e.g., if in a clade there are 3 tips from the `group` `G1` and 1 tip from the
+`group` `G2` the clade would be annotated as `G1 75%`):
+
+```r
+tip_sisters_nmd <- get_sisters(tree = annot_tree,
+                               node = 't8_O',
+                               naming_column = 'group')
+tip_sisters_nmd
+```
+
+We can follow the same procedure for an internal node:
+
+```r
+node_sisters <- get_sisters(tree = tree,
+                            node = 26)
+node_sisters
+
+node_sisters_nmd <- get_sisters(tree = annot_tree,
+                                node = 26,
+                                naming_column = 'group')
+node_sisters_nmd
+```
+
+### Plotting a collapsed tree with `ggcollapse`
+The main point of this package is to allow the user to collapse some clades
+easily. The `ggcollapse` function just requires a `phylo` tree object and
+a named vector with the nodes to be collapsed. Imagine now that we want to
+collapse the sister groups to `t8_O` that we computed previously:
+
+```r
+# Naming the sisters
+names(tip_sisters) <- paste('S', 1:length(tip_sisters), sep = '')
+
+# Collapsing the sister nodes
+ggcollapse(tree = tree,
+           nodes = tip_sisters) +
+  geom_tiplab() +
+  xlim(0, 1.1)
+```
+
+We can also annotate the tree with the `ggcollapse` function, and it would
+return a `ggtree` object with the data. In the following example, we will plot
+the collapsed sisters with the uncollapsed nodes showing the species, rather
+than the tip, label.
+
+```r
+ggcollapse(tree = tree,
+           nodes = tip_sisters,
+           get_sp = get_sp,
+           tree_data = tree_data,
+           data_sp_column = 'species') +
+  geom_tiplab(aes(label = species)) +
+  xlim(0, 1.1)
+```
+
+Using the same logic, we can apply this to the monophyletic groups, for which
+we have the node colours.
+
+```r
+# Collapsing the monophyletic groups
+ggcollapse(tree = tree,
+           nodes = gr_mphy,
+           node_colours = group_colours)
+```
+
+#### Collapsing modes
+We can also change the visualisation of the collapsed triangle using the same
+argument values as in `ggtree` (`min`, `max`, `mixed`). Our default is `mixed`.
+
+```r
+ggcollapse(tree = tree,
+           nodes = gr_mphy,
+           collapse_mode = 'mixed',
+           node_colours = group_colours) +
+  xlim(0, 1.15) +
+
+ggcollapse(tree = tree,
+           nodes = gr_mphy,
+           collapse_mode = 'max',
+           node_colours = group_colours) +
+  xlim(0, 1.15) +
+
+ggcollapse(tree = tree,
+           nodes = gr_mphy,
+           collapse_mode = 'min',
+           node_colours = group_colours) +
+  xlim(0, 0.8)
+```
+
+#### Adding bootstrap values
+As the `ggcollapse` function returns a `ggtree` object, the user can use all the
+functionalities of this package, such as adding collapsing functions.
+
+```r
+set.seed(09-08-1997)
+supports <- round(runif(length(tree$tip.label) - 2, 25, 100))
+tree$node.label <- c(NA, supports)
+
+ggcollapse(tree = tree,
+           nodes = gr_mphy,
+           node_colours = group_colours) +
+  geom_nodelab(aes(x = branch), nudge_y = 0.15)
+```
 
