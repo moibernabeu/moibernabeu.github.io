@@ -10,13 +10,13 @@ order: 2
 ---
 
 ### 2024
-*M. Bernabeu*, S. Manzano-Morales and T. Gabaldón(2024). **On the impact of incomplete taxon sampling on the relative timing of gene transfer events**, PLoS Biology, 22(3) e3002460, [10.1371/journal.pbio.3002460](https://www.doi.org/10.1371/journal.pbio.3002460)\\
+*M. Bernabeu*, S. Manzano-Morales and T. Gabaldón (2024). **On the impact of incomplete taxon sampling on the relative timing of gene transfer events**, PLoS Biology, 22(3) e3002460, [10.1371/journal.pbio.3002460](https://www.doi.org/10.1371/journal.pbio.3002460)\\
 [<i class='fa fa-file-pdf-o'></i>](https://drive.google.com/uc?export=download&id=1JvShztPmVf74qSCTLbaTacUYMSYMg-UZ)
 [<i class='fa fa-database'></i>](https://www.doi.org/10.5281/zenodo.10252240)
 
 ### 2021
-"*M. Bernabeu* and J. A. Rosselló(2021). **Molecular Evolution of rbcL in Orthotrichales (Bryophyta): Site Variation, Adaptive Evolution, and Coevolutionary Patterns of Amino Acid Replacements**, Journal of Molecular Evolution, 89(4–5) 225–237, [10.1007/s00239-021-09998-w](https://www.doi.org/10.1007/s00239-021-09998-w)\\
-[<i class='fa fa-file-pdf-o'></i>](https://drive.google.com/uc?export=download&id=14k4oapOk2zy-sgbLCYYCnVh3_LQIom4l)"
+*M. Bernabeu* and J. A. Rosselló (2021). **Molecular Evolution of rbcL in Orthotrichales (Bryophyta): Site Variation, Adaptive Evolution, and Coevolutionary Patterns of Amino Acid Replacements**, Journal of Molecular Evolution, 89(4–5) 225–237, [10.1007/s00239-021-09998-w](https://www.doi.org/10.1007/s00239-021-09998-w)\\
+[<i class='fa fa-file-pdf-o'></i>](https://drive.google.com/uc?export=download&id=14k4oapOk2zy-sgbLCYYCnVh3_LQIom4l)
 
 
 ## Preprints
