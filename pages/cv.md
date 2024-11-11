@@ -15,22 +15,20 @@ order: 2
 [<i class='fa fa-database'></i>](https://www.doi.org/10.5281/zenodo.10252240)
 
 ### 2021
-*M. Bernabeu* and J. A. Rosselló (2021).
-**Molecular Evolution of rbcL in Orthotrichales (Bryophyta): Site Variation, Adaptive Evolution, and Coevolutionary Patterns of Amino Acid Replacements**.Journal of Molecular Evolution, 89(4–5) 225–237\\
-[10.1007/s00239-021-09998-w](https://doi.org/10.1007/s00239-021-09998-w).
-[PDF](https://drive.google.com/uc?export=download&id=14k4oapOk2zy-sgbLCYYCnVh3_LQIom4l)
+*M. Bernabeu* and J. A. Rosselló(2021). *Molecular Evolution of rbcL in Orthotrichales (Bryophyta): Site Variation, Adaptive Evolution, and Coevolutionary Patterns of Amino Acid Replacements*, Journal of Molecular Evolution, 89(4–5) 225–237, [10.1007/s00239-021-09998-w](https://www.doi.org/10.1007/s00239-021-09998-w)\\
+[<i class='fa fa-file-pdf-o'></i>](https://drive.google.com/uc?export=download&id=14k4oapOk2zy-sgbLCYYCnVh3_LQIom4l)
 
 
 ## Preprints
 ---
 *M. Bernabeu*, S. Manzano-Morales and T. Gabaldón (2024)
-**Phylogeny-aware simulations suggest a low impact of unsampled lineages in the inference of gene flow during eukaryogenesis**[<i class='fa fa-external-link-square'></i>](10.1101/2024.10.04.616067)
+**Phylogeny-aware simulations suggest a low impact of unsampled lineages in the inference of gene flow during eukaryogenesis** [<i class='fa fa-external-link-square'></i>](https://www.doi.org/10.1101/2024.10.04.616067)
 
 *M. Bernabeu*, C. Armero and T. Gabaldón (2024)
-**Probabilistic modelling improves relative dating from gene phylogenies**[<i class='fa fa-external-link-square'></i>](10.1101/2024.09.30.615760)
+**Probabilistic modelling improves relative dating from gene phylogenies** [<i class='fa fa-external-link-square'></i>](https://www.doi.org/10.1101/2024.09.30.615760)
 
 *M. Bernabeu*, S. Manzano-Morales, M. Marcet-Houben and T. Gabaldón (2024)
-**Diverse ancestries reveal complex symbiotic interactions during eukaryogenesis**[<i class='fa fa-external-link-square'></i>](10.1101/2024.10.14.618062)
+**Diverse ancestries reveal complex symbiotic interactions during eukaryogenesis** [<i class='fa fa-external-link-square'></i>](https://www.doi.org/10.1101/2024.10.14.618062)
 
 
 ## Talks
