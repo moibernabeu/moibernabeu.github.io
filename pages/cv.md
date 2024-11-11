@@ -35,57 +35,50 @@ order: 2
 ---
 *M. Bernabeu* and T. Gabaldón
 **Paulinella HGT and targeting interplay during the origin of the chromatophore**.
-Comparative Genomics of Unicellular Eukaryotes, October 2024\\
-[PDF](https://drive.google.com/uc?export=download&id=1l9G-Tamn4xm5iyZwLj5LBW3K6rMBVMrN)
+Comparative Genomics of Unicellular Eukaryotes, October 2024 [<i class='fa fa-file-pdf-o'></i>](https://drive.google.com/uc?export=download&id=1l9G-Tamn4xm5iyZwLj5LBW3K6rMBVMrN)
 
 *M. Bernabeu* and T. Gabaldón
 **Paulinella gene family evolution reveals the importance of targeting and horizontal gene transfer during organellogenesis**.
-Jornada de Biologia Evolutiva, June 2024\\
-[PDF](https://drive.google.com/uc?export=download&id=1iAqNdAoUDy6G0Esv4Vi2rvcbSxb_yqoP)
+Jornada de Biologia Evolutiva, June 2024 [<i class='fa fa-file-pdf-o'></i>](https://drive.google.com/uc?export=download&id=1iAqNdAoUDy6G0Esv4Vi2rvcbSxb_yqoP)
 
 *M. Bernabeu*, C. Armero and T. Gabaldón
 **Relatively dating evolutionary events using gene phylogenies**.
-Jornada de Biologia Evolutiva, June 2022\\
-[PDF](https://drive.google.com/uc?export=download&id=1AktxDhvCs-iuecwcgtFJ0M14Mj7KDjer)
+Jornada de Biologia Evolutiva, June 2022 [<i class='fa fa-file-pdf-o'></i>](https://drive.google.com/uc?export=download&id=1AktxDhvCs-iuecwcgtFJ0M14Mj7KDjer)
 
 
 ## Posters
 ---
 *M. Bernabeu* and T. Gabaldón
 **Relative dating of evolutionary events from gene trees**.
-SESBE 2024, January 2024\\
-[PDF](https://drive.google.com/uc?export=download&id=12Eqo40uENx0SbQyxBmsHIINdrmQ2yLRd)
+SESBE 2024, January 2024 [<i class='fa fa-file-pdf-o'></i>](https://drive.google.com/uc?export=download&id=12Eqo40uENx0SbQyxBmsHIINdrmQ2yLRd)
 
 *M. Bernabeu* and T. Gabaldón
 **Relative dating of evolutionary events from gene trees**.
-SMBE 2023, July 2023\\
-[PDF](https://drive.google.com/uc?export=download&id=1YNSYJBoyLztfcBwlO_Xc3pLk6gY6KAYx)
+SMBE 2023, July 2023 [<i class='fa fa-file-pdf-o'></i>](https://drive.google.com/uc?export=download&id=1YNSYJBoyLztfcBwlO_Xc3pLk6gY6KAYx)
+
+E. Paganin, P. Román-Escrivá, *M. Bernabeu*, V. Arnau and A. Moya
+**Trends of genome’s complexity metrics in endosymbiont organisms and their free-living counterparts**.
+Congreso Nacional de Genética, June 2023 [<i class='fa fa-file-pdf-o'></i>](https://drive.google.com/open?id=1AWh6Ha9rmaJoSA5C4WdFG2za8PZeBhkr&usp=drive_copy)
 
 *M. Bernabeu*, C. Armero and T. Gabaldón
 **Branch length ratio method for timing evolutionary events using gene phylogenies**.
-Comparative genomics of unicellular eukaryotes: Interactions and symbioses, September 2022\\
-[PDF](https://drive.google.com/uc?export=download&id=1shDp__tPAES3gwUCv8yZ0qHc45cGxgln)
+Comparative genomics of unicellular eukaryotes: Interactions and symbioses, September 2022 [<i class='fa fa-file-pdf-o'></i>](https://drive.google.com/uc?export=download&id=1shDp__tPAES3gwUCv8yZ0qHc45cGxgln)
 
-*M. Bernabeu*, and A. Moya
+*M. Bernabeu* and A. Moya
 **Complexity trends in prokaryotic to eukaryotic cell transition**.
-VIII Meeting of the SESBE, February 2022\\
-[PDF](https://drive.google.com/uc?export=download&id=1L1AoZGBVKKJGmWLJBV_4fVtf22TUxFwt)
+VIII Meeting of the SESBE, February 2022 [<i class='fa fa-file-pdf-o'></i>](https://drive.google.com/uc?export=download&id=1L1AoZGBVKKJGmWLJBV_4fVtf22TUxFwt)
 
 *M. Bernabeu*, V. Arnau, W. Díaz and A. Moya
 **Is there a progressive trend in the genomic evolution of Gammaproteobacteria phylum?**.
-1r Congreso latinoamericano de Evolución, November - December 2021\\
-[PDF](https://drive.google.com/uc?export=download&id=12gU181ZQA5GFoEFyIIlWUGPN_Iigef7u)
+1r Congreso latinoamericano de Evolución, November - December 2021 [<i class='fa fa-file-pdf-o'></i>](https://drive.google.com/uc?export=download&id=12gU181ZQA5GFoEFyIIlWUGPN_Iigef7u)
 
 *M. Bernabeu*
 **Bayesian phylogenomic inference instability in convergent bacteria**.
-València International Bayesian Analysis Summer School, July 2021\\
-[PDF](https://drive.google.com/uc?export=download&id=1XnjuGvYoo0RBy7yY5PsSos7Z6bfC3Lg0)
+València International Bayesian Analysis Summer School, July 2021 [<i class='fa fa-file-pdf-o'></i>](https://drive.google.com/uc?export=download&id=1XnjuGvYoo0RBy7yY5PsSos7Z6bfC3Lg0)
 
 *M. Bernabeu*, V. Arnau, W. Díaz and A. Moya
 **Complexity metrics trend analysis through endosymbiosis Evolution**.
-Congreso Nacional de Genética, June 2021\\
-[PDF](https://drive.google.com/uc?export=download&id=1MqWeN2yESrb3NpWib806DHq0u6dZnsLA)
-
+Congreso Nacional de Genética, June 2021 [<i class='fa fa-file-pdf-o'></i>](https://drive.google.com/uc?export=download&id=1MqWeN2yESrb3NpWib806DHq0u6dZnsLA)
 
 ## Theses
 ---
