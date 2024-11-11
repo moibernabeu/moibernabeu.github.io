@@ -24,16 +24,13 @@ order: 2
 ## Preprints
 ---
 *M. Bernabeu*, S. Manzano-Morales and T. Gabaldón (2024)
-**Phylogeny-aware simulations suggest a low impact of unsampled lineages in the inference of gene flow during eukaryogenesis**\\
-[Link](10.1101/2024.10.04.616067)
+**Phylogeny-aware simulations suggest a low impact of unsampled lineages in the inference of gene flow during eukaryogenesis**[<i class='fa fa-external-link-square'></i>](10.1101/2024.10.04.616067)
 
 *M. Bernabeu*, C. Armero and T. Gabaldón (2024)
-**Probabilistic modelling improves relative dating from gene phylogenies**\\
-[Link](10.1101/2024.09.30.615760)
+**Probabilistic modelling improves relative dating from gene phylogenies**[<i class='fa fa-external-link-square'></i>](10.1101/2024.09.30.615760)
 
 *M. Bernabeu*, S. Manzano-Morales, M. Marcet-Houben and T. Gabaldón (2024)
-**Diverse ancestries reveal complex symbiotic interactions during eukaryogenesis**\\
-[Link](10.1101/2024.10.14.618062)
+**Diverse ancestries reveal complex symbiotic interactions during eukaryogenesis**[<i class='fa fa-external-link-square'></i>](10.1101/2024.10.14.618062)
 
 
 ## Talks
